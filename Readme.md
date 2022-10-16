@@ -25,6 +25,6 @@ Learnings from this projects:-
 * Different CSS properties.
 
 &nbsp;
-![Project-Image](Screenshots\project4-ss.png "Title is optional")
+![Project-Image](./Screenshots/project4-ss.png "Title is optional")
 
 ## Time Taken to complete this project was 1 day.

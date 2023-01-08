@@ -16,8 +16,8 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="https://pujari-project4.netlify.app/">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<a href="https://fsjs-project4-pujari.vercel.app/">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 Learnings from this projects:-
